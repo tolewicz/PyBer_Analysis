@@ -26,7 +26,7 @@ Investigate performance the efficiency and resources management based on fare pr
 * The distribution of drivers, impact the average fare per driver – PyBer earning and fare per ride i.e. PyBer pricing. 
 * The lowest average fare ride per ride and driver are for Urban area and the highest are for the rural area
 * The ratio of drivers to rides for rural areas is ~0.6 which mean that there is not enough drivers and there is potential risk of loosing customers by skipping rides or long waiting time.
-* The ratio in suburban area is ~0.8 which is the closest to optimal 1+ 
+* The ratio in suburban area is ~0.8 which is the closest to optimal 1 - 1.1 
 * The ratio of drivers to rides for urban areas is 1.5, which means that there is too many drivers, on the other hand there is minimal risk of missing ride or long waiting time
 
 ### Conclusion
