@@ -37,7 +37,7 @@ Investigate performance the efficiency and resources management based on fare pr
 
 (Figure 2.1)
 
-![](/analysis/Fig1.PNG)
+![](/analysis/Fig7.PNG)
 
 * The lowest Pyride income is for rural areas and the highest are for urban areas.
 * Urban areas have slight drift up, which suggest potential income growth. 
