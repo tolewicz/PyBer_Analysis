@@ -8,13 +8,17 @@ Investigate performance the efficiency and resources management based on fare pr
 ## Resources
 -	Data source: schools_complete.csv , students_complete.csv
 -	Software: Python 3.7.6, Visual studio code
-- PyCitySchools_Challenge.ipynb program 
+- PyBer_Challenge.ipynb program 
+  * Data acquisition, clean and initial processing in lines 1-73
+  * Challenge calcualtion start from line 74
 
 # PyBer Analysis Challenge
+
 
 **Part 1: Analysis of the summary DataFrame  
 
 (Figure 1)
+![](/analysis/Table1.PNG)
 
 * The number of drivers scales down from urban to rural areas respectfully. 
 * The largest number of drivers is in the urban area, the lowest number is in rural area. 
