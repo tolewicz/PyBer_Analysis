@@ -15,9 +15,10 @@ Investigate performance the efficiency and resources management based on fare pr
 # PyBer Analysis Challenge
 
 
-**Part 1: Analysis of the summary DataFrame  
+## Part 1: Analysis of the summary DataFrame  
 
 ![](/analysis/SumDataFrame.PNG)
+
 (Table 1)
 
 * The number of drivers scales down from urban to rural areas respectfully. 
@@ -28,11 +29,11 @@ Investigate performance the efficiency and resources management based on fare pr
 * The ratio in suburban area is ~0.8 which is the closest to optimal 1+ 
 * The ratio of drivers to rides for urban areas is 1.5, which means that there is too many drivers, on the other hand there is minimal risk of missing ride or long waiting time
 
-**Conclusion
+### Conclusion
 
 * PyBer must balance resources by increasing number of drivers in the rural areas and decreasing number of drivers in urban areas 
 
-**Part 2: Time trace of fare prices
+## Part 2: Time trace of fare prices
 
 (Figure 2.1)
 ![](/analysis/Fig7.PNG)
