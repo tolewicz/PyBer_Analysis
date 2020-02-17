@@ -1,5 +1,14 @@
-# PyBer_Analysis-
+# PyBer_Analysis
 Module 5 Data Visualization
+
+## Project Overview
+Conducting statistical analysis on PyBer taxi company
+Investigate performance the efficiency and resources management based on fare price and number of drivers 
+
+## Resources
+-	Data source: schools_complete.csv , students_complete.csv
+-	Software: Python 3.7.6, Visual studio code
+- PyCitySchools_Challenge.ipynb program 
 
 # PyBer Analysis Challenge
 
