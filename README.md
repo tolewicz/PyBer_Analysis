@@ -17,8 +17,8 @@ Investigate performance the efficiency and resources management based on fare pr
 
 **Part 1: Analysis of the summary DataFrame  
 
-(Figure 1)
-![](/analysis/Table1.PNG)
+![](/analysis/SumDataFrame.PNG)
+(Table 1)
 
 * The number of drivers scales down from urban to rural areas respectfully. 
 * The largest number of drivers is in the urban area, the lowest number is in rural area. 
@@ -34,7 +34,8 @@ Investigate performance the efficiency and resources management based on fare pr
 
 **Part 2: Time trace of fare prices
 
-(Figure 2)
+(Figure 2.1)
+![](/analysis/Fig7.PNG)
 
 * The lowest Pyride income is for rural areas and the highest are for urban areas.
 * Urban areas have slight drift up, which suggest potential income growth. 
